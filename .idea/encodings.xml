@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopizer-canadapost" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sm-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sm-core-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/catalog/category/model/QCategory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/catalog/category/model/QCategoryDescription.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/common/model/audit/QAuditSection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/reference/country/model/QCountry.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/reference/country/model/QCountryDescription.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/reference/currency/model/QCurrency.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/shoppingcart/model/QShoppingCart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/shoppingcart/model/QShoppingCartAttributeItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/shoppingcart/model/QShoppingCartItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/system/model/QIntegrationModule.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/system/model/QMerchantConfiguration.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/system/model/QMerchantLog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/system/model/QSystemConfiguration.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/system/model/QSystemNotification.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/tax/model/taxclass/QTaxClass.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/tax/model/taxrate/QTaxRate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/tax/model/taxrate/QTaxRateDescription.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/user/model/QGroup.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/user/model/QPermission.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-model/src/main/java/com/salesmanager/core/business/user/model/QUser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core-modules" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sm-core/src/main/java/com/salesmanager/core/business/generic/model/QSalesManagerEntity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-core/src/main/java/com/salesmanager/core/business/user/model/QPermission.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sm-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sm-shop" charset="UTF-8" />
+  </component>
+</project>
